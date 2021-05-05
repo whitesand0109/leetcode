@@ -5,7 +5,7 @@ public class exsit {
         int s ;
         s = m>=0&& m>n ? m:n;
         System.out.printf(String.valueOf(s));
-
+        System.out.println(m);
     }
 }
 
