@@ -6,6 +6,7 @@ public class exsit {
         s = m>=0&& m>n ? m:n;
         System.out.printf(String.valueOf(s));
         System.out.println(m);
+        System.out.println(n);
     }
 }
 
